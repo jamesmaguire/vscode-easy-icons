@@ -1,0 +1,40 @@
+{
+    // Icon definitions: give the icons a name and give image location
+    "iconDefinitions": {
+        "_generic": {"iconPath": "./icons/png/generic.png"},
+        "_folder_closed": {"iconPath": "./icons/png/folder_closed.png"},
+        "_folder_open": {"iconPath": "./icons/png/folder_open.png"},
+        "_python": {"iconPath": "./icons/png/python.png"},
+        "_tcl": {"iconPath": "./icons/png/tcl.png"},
+        "_json": {"iconPath": "./icons/png/json.png"},
+        "_markdown": {"iconPath": "./icons/png/markdown.png"},
+        "_batch": {"iconPath": "./icons/png/batch.png"},
+        "_excel": {"iconPath": "./icons/png/excel.png"},
+        "_word": {"iconPath": "./icons/png/word.png"},
+        "_jupyter": {"iconPath": "./icons/png/jupyter.png"},
+        "_data": {"iconPath": "./icons/png/data.png"},
+        "_xml": {"iconPath": "./icons/png/xml.png"},
+        "_text": {"iconPath": "./icons/png/text.png"}
+    },
+    // File associations
+    "file": "_generic",
+    "folder": "_folder_closed",
+    "folderExpanded": "_folder_open",
+    "languageIds": {
+        "py": "_python",
+        "tcl": "_tcl",
+        "json": "_json"
+    },
+    "fileExtensions": {
+        "md": "_markdown",
+        "bat": "_batch",
+        "xls": "_excel",
+        "xlsx": "_excel",
+        "doc": "_word",
+        "docx": "_word",
+        "ipynb": "_jupyter",
+        "out": "_data",
+        "xml": "_xml",
+        "txt": "_text"
+    }
+}

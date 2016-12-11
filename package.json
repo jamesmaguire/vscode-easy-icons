@@ -1,0 +1,18 @@
+{
+	"name": "easy-icons",
+	"displayName": "Easy icons",
+	"description": "A simple icon pack, made to be easy to customise",
+	"categories": [ "Themes" ],
+	"version": "0.0.0",
+	"publisher": "jamesmaj",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "easy-icons",
+				"label": "Easy icons",
+				"path": "./icon-associations.json"
+			}
+		]
+	}
+}
