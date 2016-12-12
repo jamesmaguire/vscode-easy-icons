@@ -1,20 +1,20 @@
 {
     // Icon definitions: give the icons a name and give image location
     "iconDefinitions": {
-        "_generic": {"iconPath": "./icons/png/generic.png"},
-        "_folder_closed": {"iconPath": "./icons/png/folder_closed.png"},
-        "_folder_open": {"iconPath": "./icons/png/folder_open.png"},
-        "_python": {"iconPath": "./icons/png/python.png"},
-        "_tcl": {"iconPath": "./icons/png/tcl.png"},
-        "_json": {"iconPath": "./icons/png/json.png"},
-        "_markdown": {"iconPath": "./icons/png/markdown.png"},
-        "_batch": {"iconPath": "./icons/png/batch.png"},
-        "_excel": {"iconPath": "./icons/png/excel.png"},
-        "_word": {"iconPath": "./icons/png/word.png"},
-        "_jupyter": {"iconPath": "./icons/png/jupyter.png"},
-        "_data": {"iconPath": "./icons/png/data.png"},
-        "_xml": {"iconPath": "./icons/png/xml.png"},
-        "_text": {"iconPath": "./icons/png/text.png"}
+        "_generic": {"iconPath": "./icons/svg/generic.svg"},
+        "_folder_closed": {"iconPath": "./icons/svg/folder_closed.svg"},
+        "_folder_open": {"iconPath": "./icons/svg/folder_open.svg"},
+        "_python": {"iconPath": "./icons/svg/python.svg"},
+        "_tcl": {"iconPath": "./icons/svg/tcl.svg"},
+        "_json": {"iconPath": "./icons/svg/json.svg"},
+        "_markdown": {"iconPath": "./icons/svg/markdown.svg"},
+        "_batch": {"iconPath": "./icons/svg/batch.svg"},
+        "_excel": {"iconPath": "./icons/svg/excel.svg"},
+        "_word": {"iconPath": "./icons/svg/word.svg"},
+        "_jupyter": {"iconPath": "./icons/svg/jupyter.svg"},
+        "_data": {"iconPath": "./icons/svg/data.svg"},
+        "_xml": {"iconPath": "./icons/svg/xml.svg"},
+        "_text": {"iconPath": "./icons/svg/text.svg"}
     },
     // File associations
     "file": "_generic",
