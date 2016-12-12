@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="jupyter.svg">
+   sodipodi:docname="css.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#393939"
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="1.0297919"
-     inkscape:cy="52.066763"
+     inkscape:zoom="5.6"
+     inkscape:cx="16.364433"
+     inkscape:cy="6.4813923"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="706"
      inkscape:window-height="708"
-     inkscape:window-x="148"
-     inkscape:window-y="205"
+     inkscape:window-x="559"
+     inkscape:window-y="71"
      inkscape:window-maximized="0"
      objecttolerance="1"
      gridtolerance="1"
@@ -55,6 +55,13 @@
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective4534" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
   </defs>
   <metadata
      id="metadata7">
@@ -74,10 +81,10 @@
      inkscape:label="Layer 1"
      transform="translate(0,-1028.3621)">
     <path
-       id="path4262"
-       style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.358437,1037.4473 0,2.7901 -1.629464,0 2.433036,2.8795 2.477678,-2.8348 -1.607142,0 0,-2.8125 z m -9.3749997,5.558 0,-5.558 1.651786,0 1.607143,2.0312 1.6517857,-2.0089 1.651785,0 0,5.558 -1.651785,0 0,-3.1696 -1.6071427,1.9866 -1.696429,-1.9643 0,3.1473 z m -1.964285,-6.5764 0,7.6708 c 0,0.4807 0.414838,0.9368 0.963189,0.9368 l 14.3315387,0 c 0.484815,0 0.910629,-0.4206 0.910629,-0.8736 l 0,-7.734 c 0,-0.5317 -0.391378,-0.9459 -1.005328,-0.9459 l -14.0789797,-0.039 c -0.715413,0 -1.121049,0.4283 -1.121049,0.9849 z"
+       style="fill:none;fill-rule:evenodd;stroke:#2980b9;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.7899419,1040.7963 0,-6.5312 3.4687501,2.5624 3.53125,-2.6249 0,6.6249 3.3125,0 -6.875,6.6563 -6.7500001,-6.625 z"
+       id="path4221"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="css.svg">
+   sodipodi:docname="batch.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#393939"
@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="16.364433"
-     inkscape:cy="6.4813923"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-36.724659"
+     inkscape:cy="52.066763"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="706"
-     inkscape:window-height="708"
-     inkscape:window-x="559"
-     inkscape:window-y="71"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      objecttolerance="1"
      gridtolerance="1"
      guidetolerance="2"
@@ -55,34 +55,6 @@
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective4534" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-6" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-1" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-7" />
   </defs>
   <metadata
      id="metadata7">
@@ -102,16 +74,16 @@
      inkscape:label="Layer 1"
      transform="translate(0,-1028.3621)">
     <path
-       style="fill:#bdc3c7;fill-opacity:1;fill-rule:evenodd;stroke:#7f8c8d;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.96023,1036.2648 0,-3.1511 7.484032,0 0,2.9895"
-       id="path4225"
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.964821,1050.7447 c 4.804486,-1.5131 7.846098,-5.6141 7.724339,-10.1532 0.121759,-4.9239 -4.724854,-10.3655 -10.670736,-10.3522 l 0,5.0169 c 1.396884,-0.017 1.858088,0.1459 2.787132,0.3981 1.035221,-0.9158 1.891269,-1.1447 2.966305,-1.2343 0.447933,0.9855 0.348393,2.1003 0.11945,3.1057 0.929045,1.1646 1.051811,2.1799 0.93568,3.7029 -0.132721,1.6258 -0.882592,3.3412 -4.578862,4.2205 0.41807,0.8859 0.547474,1.6424 0.597243,2.6279 0.03981,0.8892 -0.696783,2.7937 0.119449,2.6677 z"
+       id="path4278"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccccccccccc" />
     <path
-       style="fill:#7f8c8d;fill-rule:evenodd;stroke:#7f8c8d;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="m 3.064692,1047.9336 17.775373,0 0,-11.8772 -17.85617,0 z"
-       id="path4223"
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.2788417,1050.7404 c -4.804487,-1.513 -7.846098,-5.614 -7.72434,-10.1531 -0.121758,-4.9239 4.724854,-10.3655 10.6707373,-10.3522 l 0,5.0168 c -1.396884,-0.017 -1.858088,0.1461 -2.7871323,0.3982 -1.035222,-0.9158 -1.89127,-1.1447 -2.966306,-1.2343 -0.447933,0.9855 -0.348393,2.1003 -0.119449,3.1057 -0.929045,1.1646 -1.051811,2.1799 -0.93568,3.7029 0.13272,1.6258 0.882592,3.3412 4.578861,4.2205 -0.41807,0.8859 -0.547473,1.6424 -0.597243,2.6279 -0.03981,0.8892 0.6967833,2.7937 -0.119448,2.6676 z"
+       id="path4278-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
   </g>
 </svg>

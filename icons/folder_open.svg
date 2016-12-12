@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="jupyter.svg">
+   sodipodi:docname="css.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#393939"
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="1.0297919"
-     inkscape:cy="52.066763"
+     inkscape:zoom="5.6"
+     inkscape:cx="16.364433"
+     inkscape:cy="6.4813923"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="706"
      inkscape:window-height="708"
-     inkscape:window-x="148"
-     inkscape:window-y="205"
+     inkscape:window-x="559"
+     inkscape:window-y="71"
      inkscape:window-maximized="0"
      objecttolerance="1"
      gridtolerance="1"
@@ -55,6 +55,34 @@
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective4534" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-6" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-1" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-7" />
   </defs>
   <metadata
      id="metadata7">
@@ -74,15 +102,15 @@
      inkscape:label="Layer 1"
      transform="translate(0,-1028.3621)">
     <path
-       style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.3145629,1037.3199 0,-2.2096 c 0,-1.2539 0.607731,-1.7351 1.9413871,-1.7678 l 3.772288,0 c 0.955979,0.8466 1.911958,1.6931 2.867937,2.5397 z"
-       id="path4165-9"
+       style="fill:#bdc3c7;fill-opacity:1;fill-rule:evenodd;stroke:#7f8c8d;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.96023,1036.2648 0,-3.1511 7.484032,0 0,2.9895"
+       id="path4225"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#7f8c8d;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5.113897,1036.6255 0,9.2176 14.015867,0 0,-9.2176 z"
-       id="path4159-4"
+       style="fill:none;fill-rule:evenodd;stroke:#7f8c8d;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.064692,1047.9336 17.775373,0 0,-11.8772 -17.85617,0 z"
+       id="path4223"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
   </g>

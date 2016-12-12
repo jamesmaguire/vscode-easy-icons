@@ -1,20 +1,21 @@
 {
     // Icon definitions: give the icons a name and give image location
     "iconDefinitions": {
-        "_generic": {"iconPath": "./icons/svg/generic.svg"},
-        "_folder_closed": {"iconPath": "./icons/svg/folder_closed.svg"},
-        "_folder_open": {"iconPath": "./icons/svg/folder_open.svg"},
-        "_python": {"iconPath": "./icons/svg/python.svg"},
-        "_tcl": {"iconPath": "./icons/svg/tcl.svg"},
-        "_json": {"iconPath": "./icons/svg/json.svg"},
-        "_markdown": {"iconPath": "./icons/svg/markdown.svg"},
-        "_batch": {"iconPath": "./icons/svg/batch.svg"},
-        "_excel": {"iconPath": "./icons/svg/excel.svg"},
-        "_word": {"iconPath": "./icons/svg/word.svg"},
-        "_jupyter": {"iconPath": "./icons/svg/jupyter.svg"},
-        "_data": {"iconPath": "./icons/svg/data.svg"},
-        "_xml": {"iconPath": "./icons/svg/xml.svg"},
-        "_text": {"iconPath": "./icons/svg/text.svg"}
+        "_generic": {"iconPath": "./icons/generic.svg"},
+        "_folder_closed": {"iconPath": "./icons/folder_closed.svg"},
+        "_folder_open": {"iconPath": "./icons/folder_open.svg"},
+        "_python": {"iconPath": "./icons/python.svg"},
+        "_tcl": {"iconPath": "./icons/tcl.svg"},
+        "_json": {"iconPath": "./icons/json.svg"},
+        "_markdown": {"iconPath": "./icons/markdown.svg"},
+        "_batch": {"iconPath": "./icons/batch.svg"},
+        "_excel": {"iconPath": "./icons/excel.svg"},
+        "_word": {"iconPath": "./icons/word.svg"},
+        "_jupyter": {"iconPath": "./icons/jupyter.svg"},
+        "_data": {"iconPath": "./icons/data.svg"},
+        "_xml": {"iconPath": "./icons/xml.svg"},
+        "_gitcat": {"iconPath": "./icons/gitcat.svg"},
+        "_text": {"iconPath": "./icons/text.svg"}
     },
     // File associations
     "file": "_generic",
@@ -23,9 +24,13 @@
     "languageIds": {
         "py": "_python",
         "tcl": "_tcl",
-        "json": "_json"
+        "json": "_json",
+        "md": "_markdown"
     },
     "fileExtensions": {
+        "py": "_python",
+        "tcl": "_tcl",
+        "json": "_json",
         "md": "_markdown",
         "bat": "_batch",
         "xls": "_excel",
@@ -35,6 +40,10 @@
         "ipynb": "_jupyter",
         "out": "_data",
         "xml": "_xml",
-        "txt": "_text"
+        "txt": "_generic",
+        "gitattributes": "_gitcat",
+        "gitignore": "_gitcat",
+        "gitmodules": "_gitcat",
+        "gitkeep": "_gitcat"
     }
 }
