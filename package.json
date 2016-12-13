@@ -1,6 +1,6 @@
 {
 	"name": "easy-icons",
-	"displayName": "Easy icons",
+	"displayName": "Easy icon theme",
 	"description": "A simple icon pack, made to be easy to customise",
 	"categories": [ "Themes" ],
 	"version": "0.0.0",
@@ -10,7 +10,7 @@
 		"iconThemes": [
 			{
 				"id": "easy-icons",
-				"label": "Easy icons",
+				"label": "Easy icon theme",
 				"path": "./icon-assignments.json"
 			}
 		]
