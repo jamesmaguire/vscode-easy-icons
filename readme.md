@@ -9,15 +9,18 @@ Icons beside file names make it easier to find files by their extension.
 
 ## Goal 2 - Make it easy to add missing icons  
 Easy icons has a simple directory structure to make customisation easy. To add your own icon to the package:
+
 1. Add custom icon to the `.\images\` folder. SVG icons are recommended, PNG is fine.
+
 2. Open `icon-assignments.json`
-3. In the *Icon definitions* section add an entry in the following way (replace *icontag* and *customicon.svg*):
+
+3. In the *Icon definitions* section add an entry in the following way (replace `icontag` and `customicon.svg`):
 
 ```json
     "_icontag": {"iconPath": "./icons/customicon.svg"},
 ```
 
-4. In the *File associations* section, add an entry (replacing *ext* with the extension you wish customise and *icontag* with the icontag from step 3):
+4. In the *File associations* section, add an entry (replacing `ext` with the extension you wish customise and `icontag` with the icontag from step 3):
 
 ```json
     "ext": "_icontag",
