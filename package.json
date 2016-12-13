@@ -11,7 +11,7 @@
 			{
 				"id": "easy-icons",
 				"label": "Easy icons",
-				"path": "./icon-associations.json"
+				"path": "./icon-assignments.json"
 			}
 		]
 	}

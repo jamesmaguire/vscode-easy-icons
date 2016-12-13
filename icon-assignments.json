@@ -1,5 +1,5 @@
 {
-    // Icon definitions: give the icons a name and give image location
+// ---------------------------- Icon definitions ---------------------------- //
     "iconDefinitions": {
         // Languages
         "_batch": {"iconPath": "./icons/batch.svg"},
@@ -36,12 +36,18 @@
         "_excel": {"iconPath": "./icons/excel.svg"},
         "_word": {"iconPath": "./icons/word.svg"},
         "_data": {"iconPath": "./icons/data.svg"},
-        "_text": {"iconPath": "./icons/text.svg"},
+        "_txt": {"iconPath": "./icons/txt.svg"},
+        "_pdf": {"iconPath": "./icons/pdf.svg"},
+        "_ini": {"iconPath": "./icons/ini.svg"},
+        "_zip": {"iconPath": "./icons/zip.svg"},
         // Extensions
         "_jupyter": {"iconPath": "./icons/jupyter.svg"},
-        "_gitcat": {"iconPath": "./icons/gitcat.svg"}
+        "_gitcat": {"iconPath": "./icons/gitcat.svg"},
+        "_svg": {"iconPath": "./icons/svg.svg"},
+        "_png": {"iconPath": "./icons/png.svg"},
+        "_exe": {"iconPath": "./icons/exe.svg"}
     },
-    // File associations
+// --------------------------- File associations ---------------------------- //
     "file": "_generic",
     "folder": "_folder_closed",
     "folderExpanded": "_folder_open",
@@ -82,9 +88,15 @@
         "doc": "_word",
         "docx": "_word",
         "out": "_data",
-        "txt": "_generic",
+        "txt": "_txt",
+        "pdf": "_pdf",
+        "ini": "_ini",
+        "zip": "_zip",
         // Extensions
         "ipynb": "_jupyter",
+        "svg": "_svg",
+        "png": "_png",
+        "exe": "_exe",
         "gitattributes": "_gitcat",
         "gitignore": "_gitcat",
         "gitmodules": "_gitcat",
