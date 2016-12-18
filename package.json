@@ -7,6 +7,8 @@
     "engines": {
         "vscode": "^1.0.0"
     },
+    "icon": "marketplace-icon.png",
+    "galleryBanner": {"color": "#4c4c4c"},
     "repository": {
 		"type": "git",
 		"url": "https://github.com/JamesMaj/vscode-easy-icons"
