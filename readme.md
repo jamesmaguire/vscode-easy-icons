@@ -10,7 +10,7 @@ Icons beside file names make it easier to find files by their extension.
 ## Goal 2 - Make it easy to add missing icons  
 Easy icons has a simple directory structure to make customisation easy. To add your own icon to the package:
 
-1. Add custom icon to the `.\images\` folder. SVG icons are recommended, PNG is fine.
+1. Add custom icon to the `.\icons\` folder. SVG icons are recommended, PNG is fine.
 
 2. Open `icon-assignments.json`
 
