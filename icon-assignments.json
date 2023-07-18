@@ -170,9 +170,10 @@
         "tex": "_tex",
         "tif": "_image"
     },
-    "filenames": {
+    "fileNames": {
         "opensees.exe": "_opensees",
         "openseesSP.exe": "_opensees",
-        "openseesMP.exe": "_opensees"
+        "openseesMP.exe": "_opensees",
+        "Dockerfile": "_docker"
     }
 }
