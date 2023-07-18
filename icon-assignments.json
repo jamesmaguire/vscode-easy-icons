@@ -173,6 +173,7 @@
     "fileNames": {
         "opensees.exe": "_opensees",
         "openseesSP.exe": "_opensees",
-        "openseesMP.exe": "_opensees"
+        "openseesMP.exe": "_opensees",
+        "Dockerfile": "_docker"
     }
 }
